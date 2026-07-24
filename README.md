@@ -1,6 +1,11 @@
 <div align="center">
-  <!-- Waving Header Banner with integrated subtitle -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,34&height=220&section=header&text=Hey%20there,%20I'm%20Clever-J%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Next.js%20%26%20React%20Specialist%20%7C%20Linux%20Ricing%20Enthusiast%20🇬🇹&descSize=16&descAlignY=62" width="100%" />
+  <!-- Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,34&height=200&section=header&text=Hey%20there,%20I%20am%20Clever-J&fontSize=38&animation=fadeIn&fontColor=ffffff&fontAlignY=38" width="100%" />
+
+  <br/>
+
+  <!-- Clean Centered Subtitle Header -->
+  <h3>🚀 Full Stack Web Developer &nbsp;|&nbsp; Next.js & React Specialist &nbsp;|&nbsp; Linux Ricing Enthusiast 🇬🇹</h3>
 </div>
 
 <br/>
