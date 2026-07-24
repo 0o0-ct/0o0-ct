@@ -1,11 +1,6 @@
 <div align="center">
-  <!-- Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,34&height=200&section=header&text=Hey%20there,%20I'm%200o0-ct%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff&fontAlignY=38" width="100%" />
-
-  <!-- Animated Typing Subtitle -->
-  <a href="https://github.com/0o0-ct">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Full+Stack+Web+Developer;Next.js+%26+React+Specialist;Arch+Linux+%26+Hyprland+Ricing+Enthusiast;Building+Scalable+Web+Platforms+🇬🇹" alt="Typing SVG" />
-  </a>
+  <!-- Waving Header Banner with integrated subtitle -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,34&height=220&section=header&text=Hey%20there,%20I'm%20Clever-J%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Next.js%20%26%20React%20Specialist%20%7C%20Linux%20Ricing%20Enthusiast%20🇬🇹&descSize=16&descAlignY=62" width="100%" />
 </div>
 
 <br/>
@@ -138,5 +133,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ Designed with passion by <b>0o0-ct</b> • Powered by Arch Linux & Hyprland 🇬🇹</sub>
+  <sub>⚡ Designed with passion by <b>Clever-J</b> • Powered by Arch Linux & Hyprland 🇬🇹</sub>
 </div>
