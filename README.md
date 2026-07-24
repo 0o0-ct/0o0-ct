@@ -30,7 +30,12 @@
         <h3 align="center">🎨 Pixi-Arch-A (Hyprland Rice)</h3>
         <p align="center">
           <a href="https://github.com/0o0-ct/Pixi-Arch-A">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=0o0-ct&repo=Pixi-Arch-A&theme=transparent&border_color=61afef&title_color=61afef&icon_color=e5c07b&text_color=abb2bf" width="100%"/>
+            <img src="https://img.shields.io/badge/GitHub_Repository-Pixi--Arch--A-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" width="100%"/>
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://github.com/0o0-ct/Pixi-Arch-A">
+            <img src="https://raw.githubusercontent.com/0o0-ct/Pixi-Arch-A/main/Hyprland-Dots/assets/screenshot.jpg" alt="Pixi-Arch-A Preview" width="100%"/>
           </a>
         </p>
         <p align="center">
@@ -42,6 +47,11 @@
         <p align="center">
           <a href="https://centroeducativovocacionalsanjose.edu.gt/" target="_blank">
             <img src="https://img.shields.io/badge/Website_Oficial-San_José_GT-007acc?style=for-the-badge&logo=googlechrome&logoColor=white" width="100%"/>
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://centroeducativovocacionalsanjose.edu.gt/" target="_blank">
+            <img src="https://img.shields.io/badge/Status-Desplegado_en_Producci%C3%B3n-success?style=for-the-badge&logo=vercel&logoColor=white" width="100%"/>
           </a>
         </p>
         <p align="center">
