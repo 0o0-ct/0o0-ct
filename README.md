@@ -138,5 +138,5 @@
 ---
 
 <div align="center">
-  <sub>⚡ Designed with passion by <b>Clever-J</b> • Powered by Arch Linux & Hyprland 🇬🇹</sub>
+  <sub> <b>Clever-J</b> • Powered by Arch Linux - HYPRLAND 🇬🇹</sub>
 </div>
