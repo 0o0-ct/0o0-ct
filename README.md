@@ -1,23 +1,34 @@
 <div align="center">
   <!-- Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,34&height=200&section=header&text=Hey%20there,%20I%20am%20Clever-J&fontSize=38&animation=fadeIn&fontColor=ffffff&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,34&height=220&section=header&text=Hey%20there,%20I%20am%20Clever-J%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Linux%20Ricing%20Enthusiast%20🇬🇹&descSize=15&descAlignY=62" width="100%" />
 
   <br/>
 
-  <!-- Clean Centered Subtitle Header -->
-  <h3>🚀 Full Stack Web Developer &nbsp;|&nbsp; Next.js & React Specialist &nbsp;|&nbsp; Linux Ricing Enthusiast 🇬🇹</h3>
+  <!-- Quick Social & Portfolio Badges -->
+  <a href="https://my-portal.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portafolio_Web-Visit_Live-61afef?style=for-the-badge&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/cleverson-juarez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/tjca.0o0" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:tomascleverson0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <br/>
 
 ### 💫 Sobre Mí / About Me
 
-> *"Construyendo experiencias web modernas y escritorios de alto rendimiento con dedicación y pasión."*
+> *"Soy Cleverson Juárez (Clever J). Me apasiona construir soluciones web modernas, explorar escritorios de alto rendimiento en Linux y resolver problemas complejos a través de la tecnología."*
 
-- 🇬🇹 **Ubicación:** Guatemala
-- 💻 **Especialidad:** Desarrollo Web Full Stack (Next.js, React, TypeScript, Tailwind CSS) & Personalización de Linux (Ricing)
-- 🌐 **Proyecto Nacional Destacado:** Desarrollador de la plataforma web [Centro Educativo Vocacional San José](https://centroeducativovocacionalsanjose.edu.gt/), desplegada en producción a nivel nacional.
-- ⚡ **Fun Fact:** Apasionado de la estética digital, la animación UI, la optimización de flujos de trabajo en Hyprland y la arquitectura de bases de datos.
+- 🎓 **Educación:** Estudiante de Ingeniería en Ciencias de la Computación y Tecnologías de la Información en la Universidad del Valle de Guatemala (UVG).
+- 🇬🇹 **Ubicación:** Mixco, Guatemala.
+- 💻 **Especialidad:** Desarrollo Full-Stack (Next.js, React, TypeScript, Tailwind CSS, Node.js, Prisma, MySQL/MariaDB, MongoDB).
+- 🎨 **Intereses:** Ricing y optimización de Hyprland/Arch Linux, animación web con Framer Motion, futuro desarrollo de videojuegos e Inteligencia Artificial.
 
 ---
 
@@ -26,11 +37,11 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" valign="top">
-        <h3 align="center">🎨 Pixi-Arch-A (Hyprland Rice)</h3>
+      <td width="33%" valign="top">
+        <h4 align="center">🎨 Pixi-Arch-A (Hyprland Rice)</h4>
         <p align="center">
           <a href="https://github.com/0o0-ct/Pixi-Arch-A">
-            <img src="https://img.shields.io/badge/GitHub_Repository-Pixi--Arch--A-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" width="100%"/>
+            <img src="https://img.shields.io/badge/GitHub_Repo-Pixi--Arch--A-1793d1?style=for-the-badge&logo=archlinux&logoColor=white" width="100%"/>
           </a>
         </p>
         <p align="center">
@@ -39,11 +50,11 @@
           </a>
         </p>
         <p align="center">
-          Dotfiles y configuración personalizada de <b>Arch Linux + Hyprland</b> con temas dinámicos de Wallust, menú de apagado Rofi estilo glassmorphism, SwayNC centrado y compatibilidad para tarjetas NVIDIA.
+          Dotfiles y configuración de <b>Arch Linux + Hyprland</b> con temas dinámicos Wallust, menú de apagado Rofi estilo glassmorphism, SwayNC y soporte NVIDIA.
         </p>
       </td>
-      <td width="50%" valign="top">
-        <h3 align="center">🌐 Centro Educativo San José</h3>
+      <td width="33%" valign="top">
+        <h4 align="center">🌐 San José Educational Platform</h4>
         <p align="center">
           <a href="https://centroeducativovocacionalsanjose.edu.gt/" target="_blank">
             <img src="https://img.shields.io/badge/Website_Oficial-San_José_GT-007acc?style=for-the-badge&logo=googlechrome&logoColor=white" width="100%"/>
@@ -51,11 +62,22 @@
         </p>
         <p align="center">
           <a href="https://centroeducativovocacionalsanjose.edu.gt/" target="_blank">
-            <img src="https://img.shields.io/badge/Status-Desplegado_en_Producci%C3%B3n-success?style=for-the-badge&logo=vercel&logoColor=white" width="100%"/>
+            <img src="https://img.shields.io/badge/Status-Producción_Nacional-success?style=for-the-badge&logo=vercel&logoColor=white" width="100%"/>
           </a>
         </p>
         <p align="center">
-          Plataforma web educativa desplegada en producción a nivel nacional en Guatemala 🇬🇹. Diseñada para alto rendimiento, accesibilidad y gestión eficiente de la comunidad educativa.
+          Plataforma web educativa desplegada en producción a nivel nacional en Guatemala 🇬🇹 para la gestión eficiente de la comunidad educativa.
+        </p>
+      </td>
+      <td width="33%" valign="top">
+        <h4 align="center">📚 DigitalRead Platform</h4>
+        <p align="center">
+          <a href="https://digitalread.org" target="_blank">
+            <img src="https://img.shields.io/badge/Plataforma-DigitalRead.org-8e44ad?style=for-the-badge&logo=bookstack&logoColor=white" width="100%"/>
+          </a>
+        </p>
+        <p align="center">
+          Plataforma web de biblioteca digital e interactiva con lector multi-formato (PDF, EPUB, DOCX), seguimiento analítico de lectura y autenticación.
         </p>
       </td>
     </tr>
@@ -80,12 +102,15 @@
 
 #### **Backend & Databases**
 <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-#### **System & Environment**
+#### **System & Tools**
 <p>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Hyprland-55B9FF?style=for-the-badge&logo=hyprland&logoColor=white" />
@@ -97,7 +122,7 @@
 
 <!-- Dynamic Interactive Skill Icons -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,css,framer,mysql,mariadb,mongodb,arch,bash,git&perline=6" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,css,framer,nodejs,py,mysql,mariadb,mongodb,arch,bash,git&perline=7" />
 </a>
 
 </div>
@@ -138,5 +163,5 @@
 ---
 
 <div align="center">
-  <sub> <b>Clever-J</b> • Powered by Arch Linux - HYPRLAND 🇬🇹</sub>
+  <sub>⚡ Designed with passion by <b>Cleverson Juárez (Clever J)</b> • Powered by Arch Linux & Hyprland 🇬🇹</sub>
 </div>
