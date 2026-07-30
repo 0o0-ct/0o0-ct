@@ -2,21 +2,13 @@
   <!-- Waving Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,34&height=220&section=header&text=Hey%20there,%20I%20am%20Clever-J%20👋&fontSize=38&animation=fadeIn&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20Linux%20Ricing%20Enthusiast%20🇬🇹&descSize=15&descAlignY=62" width="100%" />
 
-  <br/>
+  <br/><br/>
 
-  <!-- Quick Social & Portfolio Badges -->
-  <a href="https://my-portal.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portafolio_Web-Visit_Live-61afef?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/cleverson-juarez" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/tjca.0o0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:tomascleverson0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <!-- Quick Social & Portfolio Badges (Pure Markdown format to eliminate whitespace underlines) -->
+  <a href="https://my-portal.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Portafolio_Web-Visit_Live-61afef?style=for-the-badge&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/cleverson-juarez" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.instagram.com/tjca.0o0" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;
+  <a href="mailto:tomascleverson0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
