@@ -125,7 +125,7 @@
 
 <div align="center">
   <!-- Dynamic Contribution Activity Graph Wave -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0o0-ct&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0o0-ct&theme=tokyo-night&hide_border=true&area=true&v=2" width="100%"/>
 </div>
 
 <br/>
@@ -133,7 +133,7 @@
 <div align="center">
   <!-- Custom Color Contribution Grid Chart -->
   <a href="https://github.com/0o0-ct">
-    <img src="https://ghchart.rshah.org/61afef/0o0-ct" alt="Gráfico de Contribuciones de 0o0-ct" width="100%"/>
+    <img src="https://ghchart.rshah.org/61afef/0o0-ct?v=2" alt="Gráfico de Contribuciones de 0o0-ct" width="100%"/>
   </a>
 </div>
 
@@ -142,14 +142,14 @@
 ### 📊 Estadísticas de GitHub / GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0o0-ct&theme=tokyonight" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0o0-ct&theme=tokyonight" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0o0-ct&theme=tokyonight&cache=false" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0o0-ct&theme=tokyonight&cache=false" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0o0-ct&theme=tokyonight&hide_border=true" width="85%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0o0-ct&theme=tokyonight&hide_border=true&date_format=j%20F%5B%20Y%5D" width="85%"/>
 </div>
 
 ---
