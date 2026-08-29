@@ -130,12 +130,7 @@
 
 <br/>
 
-<div align="center">
-  <!-- Custom Color Contribution Grid Chart -->
-  <a href="https://github.com/0o0-ct">
-    <img src="https://ghchart.rshah.org/61afef/0o0-ct" alt="Gráfico de Contribuciones de 0o0-ct" width="100%"/>
-  </a>
-</div>
+
 
 ---
 
