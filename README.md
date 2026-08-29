@@ -124,10 +124,12 @@
 ### 📈 Actividad & Contribuciones / Contribution Activity
 
 <div align="center">
-  <!-- Custom Color Contribution Grid Chart -->
-  <a href="https://github.com/0o0-ct">
-    <img src="https://ghchart.rshah.org/61afef/0o0-ct" alt="Gráfico de Contribuciones de 0o0-ct" width="100%"/>
-  </a>
+  <!-- Dynamic Animated Contribution Snake -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0o0-ct/0o0-ct/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0o0-ct/0o0-ct/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/0o0-ct/0o0-ct/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </div>
 
 ---
